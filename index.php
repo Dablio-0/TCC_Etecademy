@@ -56,6 +56,7 @@ include(HEAD_TEMPLATE);
             <form action="login/login.php" method="POST">
               <div class="d-flex align-items-center mb-3 pb-1">
                 <i class="fas fa-cubes fa-2x me-3"></i>
+                <h1>TESTE DE GIT</h1>
                 <span class="h1 fw-bold mb-0" id="Titulo">Etecademy</span>
               </div>
 
